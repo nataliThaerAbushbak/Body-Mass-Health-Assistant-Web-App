@@ -1,4 +1,4 @@
-# BMI Health Assistant
+# Body Mass Health Assistant Web App
 
 
 A supportive and user-friendly web application that allows users to calculate their Body Mass Index (BMI) and receive helpful, non-judgmental resources to support healthy weight goals.  
@@ -17,7 +17,7 @@ Development Notes
 About
 
 ## Overview
-The BMI Health Assistant is designed to help users calculate their BMI using height and weight inputs.  
+The Body Mass Health Assistant Web App is designed to help users calculate their BMI using height and weight inputs.  
 After calculating the BMI, the application clearly displays the BMI value and category.  
 Users can optionally continue to a supportive resources page that provides apps and social media creators related to weight gain or weight loss in a positive and comfortable way.
 
