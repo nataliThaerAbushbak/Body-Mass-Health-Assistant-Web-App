@@ -96,9 +96,26 @@ All application source code is located inside the src directory.
 Documentation and screenshots are located inside the docs directory.  
 Docker is used to ensure consistent behavior across different environments.
 
+## Production URL
+https://bmiassistantapp-c5drfa3w.b4a.run
+
+## VPS Deployment (Back4App)
+
+This project is deployed using Back4App Containers, which function as a managed VPS environment with Docker support.
+
+### Deployment Steps
+1. A container instance was created on the Back4App platform.
+2. Git and Docker are pre-installed and managed by Back4App.
+3. The GitHub repository was automatically cloned from the `main` branch.
+4. The Docker image was built and the container was launched with port 80 exposed.
+5. The deployment was verified using the public Back4App URL.
+
+### Verification
+The application is running successfully and is accessible via the Production URL above.
+
 ### About
 Project: BMI Supportive Web App  
-Course: Operating Systems Lab – Assignment #2 (Docker & GitHub)  
+Course: Operating Systems Lab – Assignment #3 
 Student Name: Natali T H Abushbak  
 Student ID: 220230818  
 
