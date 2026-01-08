@@ -1,4 +1,4 @@
-# OS LAB – Assignment #2 (Docker & GitHub)
+# OS LAB 
 ## Technical Notes
 
 Student Name: Natali T H Abushbak  
